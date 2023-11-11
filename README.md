@@ -1,5 +1,6 @@
 # Hotel-Resort
-This Website to help customers to book hotels room.
+Link: https://ankitasingh2000.github.io/Hotel-Resort/
+
 
 ![Screenshot (471)](https://github.com/AnkitaSingh2000/Hotel-Resort/assets/89559467/903b7a1e-1bd7-46a9-9629-d8895dcfbb56)
 
